@@ -1,5 +1,10 @@
-package scientific_calculators;
 
+package scientific_calculators;
+/**
+ * @author ${hisham_maged10}
+ *https://github.com/hisham-maged10
+ * ${DesktopApps}
+ */
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.EventQueue;
